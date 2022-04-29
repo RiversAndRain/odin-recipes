@@ -1,0 +1,36 @@
+* {
+    background-color: #ffc299;
+}
+
+.title {
+  text-align: center;
+  color:  #fff0e6;
+  font-family: 'Monoton', cursive;
+  font-size: 75px;
+}
+
+.subtitle {
+    font-size: 40px;
+    font-family: 'Cinzel', serif;
+    color: #eb4034;
+}
+
+a:link {
+    color: #eb4034;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: #ce6262;
+    text-decoration: none;
+}
+
+body {
+  font-family: 'Cinzel', serif;
+  font-size: 20px;
+}
+
+.recipepic {
+    margin: auto;
+    display: block;
+}
